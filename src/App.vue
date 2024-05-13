@@ -5,7 +5,8 @@ import AppMain from './components/AppMain.vue';
 export default {
     components: {
       AppHeader,
-      AppMain
+      AppMain,
+
     }
 }
 
@@ -14,7 +15,6 @@ export default {
 <template>
 <AppHeader></AppHeader>
 <AppMain></AppMain>
-<AppFooter></AppFooter>
 </template>
 
 <style scoped lang="scss">
