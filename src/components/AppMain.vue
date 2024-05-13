@@ -13,7 +13,8 @@
 </script>
 
 <template>
-
+    <OfferteLampo></OfferteLampo>
+    <MadeInItaly></MadeInItaly>
 </template>
 
 <style scoped lang="scss">
