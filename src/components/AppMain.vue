@@ -1,6 +1,6 @@
 <script>
 
-    import OfferteLampo from './components/OfferteLampo.vue';
+    import OfferteLampo from './components/OfferteLampo.vue'
 
 
     export default {
