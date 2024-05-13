@@ -16,9 +16,11 @@ export default {
 
 <template>
     <main>
-        <OfferteLampo></OfferteLampo>
-        <MadeInItaly></MadeInItaly>
-        <CardSection></CardSection>
+        <div class="container">
+            <OfferteLampo></OfferteLampo>
+            <MadeInItaly></MadeInItaly>
+            <CardSection></CardSection>
+        </div>
     </main>
 </template>
 
