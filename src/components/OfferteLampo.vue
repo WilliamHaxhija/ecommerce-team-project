@@ -27,7 +27,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 15% di sconto</p>
                                         <h5 class="card-title">Cassa</h5>
-                                        <p class="card-text">200$</p>
+                                        <p class="card-text">200€</p>
                                     </div>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 10% di sconto</p>
                                         <h5 class="card-title">Scarpe</h5>
-                                        <p class="card-text">100$</p>
+                                        <p class="card-text">100€</p>
                                     </div>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 5% di sconto</p>
                                         <h5 class="card-title">Telecamera</h5>
-                                        <p class="card-text">50$</p>
+                                        <p class="card-text">50€</p>
                                     </div>
                                 </div>
                             </div>
@@ -57,7 +57,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 15% di sconto</p>
                                         <h5 class="card-title">Cassa</h5>
-                                        <p class="card-text">200$</p>
+                                        <p class="card-text">200€</p>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 10% di sconto</p>
                                         <h5 class="card-title">Scarpe</h5>
-                                        <p class="card-text">100$</p>
+                                        <p class="card-text">100€</p>
                                     </div>
                                 </div>
                             </div>
@@ -77,7 +77,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 5% di sconto</p>
                                         <h5 class="card-title">Telecamera</h5>
-                                        <p class="card-text">50$</p>
+                                        <p class="card-text">50€</p>
                                     </div>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 15% di sconto</p>
                                         <h5 class="card-title">Cassa</h5>
-                                        <p class="card-text">200$</p>
+                                        <p class="card-text">200€</p>
                                     </div>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 10% di sconto</p>
                                         <h5 class="card-title">Scarpe</h5>
-                                        <p class="card-text">100$</p>
+                                        <p class="card-text">100€</p>
                                     </div>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 5% di sconto</p>
                                         <h5 class="card-title">Telecamera</h5>
-                                        <p class="card-text">50$</p>
+                                        <p class="card-text">50€</p>
                                     </div>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 15% di sconto</p>
                                         <h5 class="card-title">Cassa</h5>
-                                        <p class="card-text">200$</p>
+                                        <p class="card-text">200€</p>
                                     </div>
                                 </div>
                             </div>
@@ -131,7 +131,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 10% di sconto</p>
                                         <h5 class="card-title">Scarpe</h5>
-                                        <p class="card-text">100$</p>
+                                        <p class="card-text">100€</p>
                                     </div>
                                 </div>
                             </div>
@@ -141,7 +141,7 @@
                                     <div class="card-body text-center">
                                         <p class="ms-promotion p-2">Fino al 5% di sconto</p>
                                         <h5 class="card-title">Telecamera</h5>
-                                        <p class="card-text">50$</p>
+                                        <p class="card-text">50€</p>
                                     </div>
                                 </div>
                             </div>
@@ -173,14 +173,19 @@
         .card{
             border: 1px solid transparent !important;
 
+            .card-img-top {
+                width: 100%;
+                height: 200px;
+                object-fit: contain;
+            }
+
             .ms-promotion{
                 background-color: #CC0C39;
                 color: white;
                 border: 1px solid transparent;
                 border-radius: 5px;
                 width: 90%;
-                margin-left: 10px;
-
+                margin-left: 8px;
             }
         }
     
