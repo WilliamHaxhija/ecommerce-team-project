@@ -19,6 +19,6 @@ import headerBottom from './headerBottom.vue';
     </header>
 </template>
 
-<style scoped lang="scss">
+<style lang="scss">
 
 </style>
