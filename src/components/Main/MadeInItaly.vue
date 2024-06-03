@@ -67,7 +67,7 @@
                     <div class="row m-2 text-center">
                         <div class="col-md-2">
                             <div class="card" style="width: 18rem;">
-                                <img src="../assets/img/madeinitaly/img1.png" class="card-img-top" alt="...">
+                                <img src="../../assets/img/madeinitaly/img1.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Card 7</h5>
                                 </div>
@@ -75,7 +75,7 @@
                         </div>
                         <div class="col-md-2">
                             <div class="card" style="width: 18rem;">
-                                <img src="../assets/img/madeinitaly/img2.png" class="card-img-top" alt="...">
+                                <img src="../../assets/img/madeinitaly/img2.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Card 8</h5>
                                 </div>
@@ -83,7 +83,7 @@
                         </div>
                         <div class="col-md-2">
                             <div class="card" style="width: 18rem;">
-                                <img src="../assets/img/madeinitaly/img3.png" class="card-img-top" alt="...">
+                                <img src="../../assets/img/madeinitaly/img3.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Card 9</h5>
                                 </div>
@@ -91,7 +91,7 @@
                         </div>
                         <div class="col-md-2">
                             <div class="card" style="width: 18rem;">
-                                <img src="../assets/img/madeinitaly/img1.png" class="card-img-top" alt="...">
+                                <img src="../../assets/img/madeinitaly/img1.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Card 10</h5>
                                 </div>
@@ -99,7 +99,7 @@
                         </div>
                         <div class="col-md-2">
                             <div class="card" style="width: 18rem;">
-                                <img src="../assets/img/madeinitaly/img2.png" class="card-img-top" alt="...">
+                                <img src="../../assets/img/madeinitaly/img2.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Card 11</h5>
                                 </div>
@@ -107,7 +107,7 @@
                         </div>
                         <div class="col-md-2">
                             <div class="card" style="width: 18rem;">
-                                <img src="../assets/img/madeinitaly/img3.png" class="card-img-top" alt="...">
+                                <img src="../../assets/img/madeinitaly/img3.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Card 12</h5>
                                 </div>
