@@ -1,8 +1,9 @@
 <script>
 
     export default {
-        name: 'AppHeader'
+        name: 'headerTop'
     }
+
 
 </script>
 
