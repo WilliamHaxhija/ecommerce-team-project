@@ -9,11 +9,11 @@
 <template>
     <section id="offerte-lampo">
         <div class="container">
-            <div class="row">
+            <div class="row mt-4">
                 <div class="col">
                     <div class="d-flex align-items-center">
                         <h3 class="me-3">Offerte Lampo</h3>
-                        <h4><a href="#">Scopri di più</a></h4>
+                        <h5><a href="#">Scopri di più</a></h5>
                     </div>       
                 </div>
             </div>

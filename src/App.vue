@@ -13,10 +13,12 @@ export default {
 </script>
 
 <template>
-<AppHeader></AppHeader>
-<AppMain></AppMain>
+  <AppHeader></AppHeader>
+  <AppMain></AppMain>
 </template>
 
-<style scoped lang="scss">
-
+<style lang="scss">
+  body{
+    background-color: #e4e5e6;
+  }
 </style>
