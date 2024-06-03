@@ -45,7 +45,7 @@
 
 <style scoped lang="scss">
    nav{
-        background-color:#141920 !important;
+        background-color:#252f3f !important;
 
         li{
             a{
@@ -57,5 +57,14 @@
                 border: 1px solid white;
             }
         }
+
+        li:nth-child(1){
+            &:hover{
+                border: none;
+            }
+        }   
+ 
     }
+
+  
 </style>
