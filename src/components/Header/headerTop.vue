@@ -35,9 +35,17 @@
                     <div class="btn-group mt-1">
                         <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Account & liste</button>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Menu item</a></li>
-                            <li><a class="dropdown-item" href="#">Menu item</a></li>
-                            <li><a class="dropdown-item" href="#">Menu item</a></li>
+                            <div class="row">
+                                <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                <li><a class="dropdown-item" href="#">Menu item</a></li>
+                            </div>
+                            <div class="row">
+                                <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                <li><a class="dropdown-item" href="#">Menu item</a></li>
+                            </div>
+                            
                         </ul>
                     </div>
                     </li>

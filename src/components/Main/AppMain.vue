@@ -17,8 +17,8 @@ export default {
 <template>
     <main>
         <div class="container">
-            <OfferteLampo></OfferteLampo>
             <MadeInItaly></MadeInItaly>
+            <OfferteLampo></OfferteLampo>
             <CardSection></CardSection>
         </div>
     </main>

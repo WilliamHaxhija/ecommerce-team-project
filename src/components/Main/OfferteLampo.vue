@@ -12,7 +12,7 @@
             <div class="row mt-4">
                 <div class="col">
                     <div class="d-flex align-items-center">
-                        <h3 class="me-3">Offerte Lampo</h3>
+                        <h3 class="me-2">Offerte Lampo</h3>
                         <h5><a href="#">Scopri di più</a></h5>
                     </div>       
                 </div>

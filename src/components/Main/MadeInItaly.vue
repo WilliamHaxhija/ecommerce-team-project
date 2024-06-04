@@ -8,6 +8,12 @@
 
 <template>
     <div class="container mt-3">
+        <div class="row text-center">
+            <div class="col d-flex align-items-center">
+                <h3 class="me-2">Scopri i prodotti Made in Italy</h3>
+                <h5><a href="http://">scopri</a></h5>
+            </div>
+        </div>
         <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
